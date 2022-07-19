@@ -1,6 +1,8 @@
 # Mouse-Position-Viewer
 Um sistema desenvolvido em python para opter as coordenadas da posição atual do mouse, do mouse click e mouse release.
 
+![image](https://user-images.githubusercontent.com/54067414/179835341-e56afded-87aa-48ad-8d04-92d01e595e2b.png)
+
 Para executar este sistema, instale as bibliotecas abaixo:
 
       PyAutogui
