@@ -1,0 +1,1 @@
+pyuic6 -o Selenium/mousePositionViewer/_window/position_viewer.py Selenium/mousePositionViewer/_window/_design/position_viewer.ui
